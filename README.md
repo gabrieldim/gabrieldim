@@ -6,3 +6,6 @@
 - ⚡ Fun fact: for me, Spring Boot > .NET 😉
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldim)](https://github.com/anuraghazra/github-readme-stats)
+</br> For few repos i used templates for frontend and just took the info from backend, that's why is JS most commonly used according to GitHub. 
+Java is used for most of the Projects. </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
