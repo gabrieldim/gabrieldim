@@ -2,7 +2,7 @@
 #### I'm currently third year at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
 - 🌱 I’m currently working on a few new repos 
-- 📫 How to reach me: ig: <b>@_dimitrievskig </b>
+- 📫 How to reach me: ig: <b><i>@_dimitrievskig</i></b>
 - ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldim)](https://github.com/anuraghazra/github-readme-stats)
