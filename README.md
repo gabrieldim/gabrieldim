@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldim&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 </br> <b> Note: </b> <i> For few repos i used templates for frontend and just took the info from backend, that's why is JS most commonly used according to GitHub. 
 Java is used the most for the projects that i developed. </br> </i> 
-## For each repository there is an appropriate README file for the application that I have developed. For some of them there are Javadocs as well. </br> By default, we can attach six repositories, here are a few more:
+### For each repository there is an appropriate README file for the application that I have developed. For some of them there are Javadocs as well. </br> By default, we can attach six repositories, but i found a way to show you more: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=WPA2-CCMP-Authentication-Protocol)](https://github.com/gabrieldim/WPA2-CCMP-Authentication-Protocol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=SkopjeGuide)](https://github.com/gabrieldim/SkopjeGuide)
 
