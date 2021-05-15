@@ -10,6 +10,3 @@
 </br> <b> Note: </b> <i> For few repos i used templates for frontend and just took the info from backend, that's why is JS most commonly used according to GitHub. 
 Java is used the most for the projects that i developed. </br> </i> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=Probability-And-Statistics)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=Accounting-System)](https://github.com/anuraghazra/github-readme-stats)
