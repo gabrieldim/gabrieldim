@@ -1,7 +1,7 @@
 
 ### I'm currently third year at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
-- 🌱 I’m currently working on a few new repos. Also, I'm learning about React and Bootstrap.
+- 🌱 I’m currently working on a few new repos. Also, I'm learning about React.
 - 📫 How to reach me: ig: <b>📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]</b>
 - ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 
