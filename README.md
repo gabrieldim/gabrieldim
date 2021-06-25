@@ -12,7 +12,9 @@ Java is used the most for the projects that i developed. </br> </i>
 ### For every repository there is an appropriate README file for the application that I have developed. For some of them there are Javadocs as well. </br> By default, we can attach six repositories, but i found a way to show you more of my apps here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=WPA2-CCMP-Authentication-Protocol)](https://github.com/gabrieldim/WPA2-CCMP-Authentication-Protocol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=SkopjeGuide)](https://github.com/gabrieldim/SkopjeGuide)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=Task-Tracker)]
+(https://github.com/gabrieldim/Task-Tracker)
 
 [instagram]: https://instagram.com/_dimitrievskig
 [linkedin]: https://www.linkedin.com/in/gabriel-dimitrievski-a678761a9/
+
