@@ -19,4 +19,4 @@ Java is used the most for the projects that i developed. </br> </i>
 [linkedin]: https://www.linkedin.com/in/gabriel-dimitrievski-a678761a9/
 
 ---
-> Keep smiling and work harder ✌
+> <h3> Keep smiling and work harder ✌ </h3>
