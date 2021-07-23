@@ -1,5 +1,4 @@
 ### I'm currently at the end of the third year at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gabrieldim&label=Profile%20views&color=11ff00&style=flat-square" alt="gabrieldim" /> </p> 
 
 - 🌱 I’m currently working on a few new repos. Also, I'm learning about React and TypeScript.
 - 📫 How to reach me: <b>📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]</b>
