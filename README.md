@@ -1,4 +1,4 @@
-### I'm currently at the end of the third year at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
+### Student at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
 - 🌱 I’m currently working on a few new repos. Also, I'm learning about React and TypeScript.
 - 📫 How to reach me: <b>📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]</b>
