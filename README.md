@@ -1,6 +1,6 @@
 ### Student at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
-- 🌱 I’m currently working on a few new repos. Also, I'm learning about React and TypeScript.
+- 🌱 I’m currently working on a few new repos. Also, I'm currently learning about React and TypeScript.
 - 📫 How to reach me: <b>📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]</b>
 - ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 
