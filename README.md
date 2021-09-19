@@ -1,7 +1,7 @@
 ### Student at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
 - 🌱 I’m currently working on a few new repos. Also, I'm currently learning about React and TypeScript.
-- 📫 How to reach me: <b>📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]</b>
+- 📫 How to reach me: <b>  👔 [linkedin][linkedin]</b>
 - ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,7 +15,11 @@ Java is used the most for the projects that i developed. </br> </i>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=WPA2-CCMP-Authentication-Protocol)](https://github.com/gabrieldim/WPA2-CCMP-Authentication-Protocol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=SkopjeGuide)](https://github.com/gabrieldim/SkopjeGuide)
 
-[instagram]: https://instagram.com/_dimitrievskig
+
+<!---
+📷 [instagram][instagram] **|**
+[instagram]: https://instagram.com/_dimitrievskig 
+----->
 [linkedin]: https://www.linkedin.com/in/gabriel-dimitrievski-a678761a9/
 
 
