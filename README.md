@@ -1,6 +1,6 @@
 ### Student at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
 
-- 🌱 Topics so far: **Web Development, Data Science, Assembly, Microcontrollers, Game Development(Minecraft), Console applications and much more...**
+- 🌱 Topics so far: **Web Development, Data Science, Assembly, Microcontrollers, Game Development(Minecraft), Crash Courses, Console applications and much more...**
 - 📫 How to reach me: <b>  👔 [linkedin][linkedin]</b>
 - ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 - 🚀 I’m currently working on a few new repos. 
