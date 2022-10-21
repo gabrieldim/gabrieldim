@@ -1,4 +1,4 @@
-### Student at the Faculty Of Computer Science and Engineering. My direction is software engineering and information systems.
+### Bachelor of Science (Information Science), sub-degree: Software Engineering and Information Technolgies
 
 - 🌱 Topics so far: **Web Development, Data Science, Assembly, Microcontrollers, Game Development(Minecraft), Crash Courses, Console applications and much more...**
 - 📫 How to reach me: <b>  👔 [linkedin][linkedin]</b>
