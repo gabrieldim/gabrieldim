@@ -1,4 +1,4 @@
-### Bachelor of Science (Information Science), sub-degree: Software Engineering and Information Technolgies
+### Bachelor of Science (Information Science), sub-degree: Software Engineering and Information Technologies
 
 - 🌱 Topics so far: **Web Development, Data Science, Assembly, Microcontrollers, Game Development(Minecraft), Crash Courses, Console applications and much more...**
 - 📫 How to reach me: <b>  👔 [linkedin][linkedin]</b>
