@@ -2,7 +2,6 @@
 
 - 🌱 Topics so far: **Web Development, Data Science, Assembly, Microcontrollers, Game Development(Minecraft), Crash Courses, Console applications and much more...**
 - 📫 How to reach me: <b>  👔 [linkedin][linkedin]</b>
-- ⚡ Fun fact: <b> for me, Spring Boot > .NET 😉 </b>
 - 🚀 I’m currently working on a few new repos. 
 
 <h3 align="left">Languages and Tools:</h3>
