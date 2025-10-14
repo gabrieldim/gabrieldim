@@ -10,7 +10,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldim)](https://github.com/gabrieldim)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldim&layout=compact&langs_count=15)](https://github.com/gabrieldim)
 </br> 
-### For every repository there is an appropriate README file for the application that I have developed. For some of them there are Javadocs as well. </br> By default, we can attach six repositories, but I found a way to show you more of my favorite apps here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=WPA2-CCMP-Authentication-Protocol)](https://github.com/gabrieldim/WPA2-CCMP-Authentication-Protocol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrieldim&repo=SkopjeGuide)](https://github.com/gabrieldim/SkopjeGuide)
 
